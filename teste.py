@@ -1,0 +1,1 @@
+from ddclient import client
